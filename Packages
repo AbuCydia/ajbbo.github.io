@@ -1,0 +1,18 @@
+Package: ajbbotech.com.gamehacker
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: aJBboCydia
+Installed-Size: 1216
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debfiles/ajbbotech.com.gamehacker_1.0-1+debug_iphoneos-arm.deb
+Size: 173118
+MD5sum: 599301c2f35de35e2cff8b047a5f23fd
+SHA1: aa3f3e4154eba9198924f140541eb7ca78834551
+SHA256: db95dafc1d074e032c973b82046940ffdf51284f4f33cd08b8920335e643b255
+Section: Tweaks
+Description: An Tweaks
+Depiction: https://repo.ajbbotech.com/description.html?id=ajbbotech.com.gamehacker
+Author: aJBboCydia
+Name: Game Hacker
+Sileodepiction: https://repo.ajbbotech.com/SileoDepiction/GameHacker.json
+

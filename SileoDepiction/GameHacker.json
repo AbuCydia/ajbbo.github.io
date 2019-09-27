@@ -1,0 +1,65 @@
+{
+  "minVersion": "1.0",
+  "tintColor": "#228b22",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Game Hacker By @aJBboCydia",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "Game Hacker By @aJBboCydia",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "22/14/19",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Twitter",
+          "action": "https://twitter.com/aJBboCydia",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Developer",
+          "text": "aJBboCydia",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "ajbbo@ajbbotech.com",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class":"DepictionTabView"
+}

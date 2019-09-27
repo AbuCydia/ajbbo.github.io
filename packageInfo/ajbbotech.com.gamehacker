@@ -1,0 +1,9 @@
+{
+	"name": "Game Hacker",
+	"desc_short": "InApp Purchase",
+	"desc_long": "لشراء من داخل بعض التطبيقات والالعاب مجانا<br><br>تفعيل الاداة عنطريق الاعدادات",
+	"compatitle": "iOS 3 To 12.4 & A12 Support",
+	"changelog": "<strong>1.0</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://repo.ajbbotech.com/image/photo.png' target='_blank'><img width=95% src='https://repo.ajbbotech.com/image/photo.png'/></a><br></div>",
+	"open": true,
+}
